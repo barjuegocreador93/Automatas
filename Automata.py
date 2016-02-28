@@ -191,8 +191,4 @@ class Leng:
 
 
 
-a=Leng()
-s=raw_input("Entre una exprecion bool: ")
-a.run(s)
-
 
