@@ -1,7 +1,6 @@
 
-
 import Automata as atm
-garmatica={
+gramatica={
 "grafemas":{
   "valores":[1,2,3],
   "operador":["*","+"]}
@@ -16,6 +15,6 @@ grafo=[
 
 
 
-a=atm.Leng(garmatica,grafo)
+a=atm.Leng(gramatica,grafo)
 s=raw_input("Entre una oracion del lenguaje: ")
 a.run(s)
