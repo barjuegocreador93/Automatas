@@ -181,9 +181,9 @@ class Leng:
         if(len(sts)!=0):
             if(sts[0]=="S"):
                 print ""
-                print ("Es una expreción booleana")
-            else: print ("No es una expeción booleana")
-        else: print ("No es una expeción booleana")
+                print ("Es una expreción de este lenguaje")
+            else: print ("No es una expreción de este lenguaje")
+        else: print ("No una expreción de este lenguaje")
 
 
 
