@@ -16,7 +16,7 @@ grafo=[
 
 
 
-a=atm.Leng(garamtica,grafo)
+a=atm.Leng(garmatica,grafo)
 s=input("Entre una oracion del lenguaje: ")
 a.run(s)
 
